@@ -1,10 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Brendan Burns # your name (or website title) here
+logo: "/images/Profile-job.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
-  <br><br>
-  Second description 
-  <br><br>
+  Data Analyst with 2 years of public service experience in analytics, ETL and visualisation.
+  Bachelors degree in Science(Applied Mathematicss) from Swinburne University
+  Graduate certificate (Data science) from UNSW
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
