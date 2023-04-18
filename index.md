@@ -5,7 +5,7 @@
 ### Category Name 1 
 
 [Identifying individual gender by foot print](/sample_page)
-<img src="images/foot.png?raw=true"/>
+<img src="images/Foots.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
