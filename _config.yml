@@ -9,3 +9,4 @@ description: > # your text below (remove <br> elements if you don't need line br
   Graduate certificate in Data Science from UNSW.
   <br><br>
   <a href="https://www.linkedin.com/in/brendan-burns-a7527223a/">View My LinkedIn Profile</a> 
+ theme: jekyll-theme-minimal
