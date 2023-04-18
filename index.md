@@ -1,7 +1,4 @@
-## Portfolio
-
----
-### Recent projects
+## Recent projects
 ---
 [Gender Identification from Partial or Complete Footprints ](/sample_page)
 <img src="images/Foots.png?raw=true"/>
