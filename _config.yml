@@ -1,8 +1,7 @@
 title: Brendan Burns # your name (or website title) here
 logo: "/images/Profile-job.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Analyst at Safe Work Australia.
-  <a href="https://data.safeworkaustralia.gov.au">Check out our new Data Website</a> 
+  Analyst at <a href="https://data.safeworkaustralia.gov.au">Safe Work Australia</a> .
   <br><br>
   Data Analyst with 2 years of public service experience in analytics, ETL and visualisation.
   <br><br>
