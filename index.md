@@ -4,7 +4,7 @@
 
 Recent projects
 
-[Identifying individual gender by foot print](/sample_page)
+[Gender Identification from Partial or Complete Footprints ](/sample_page)
 <img src="images/Foots.png?raw=true"/>
 
 ---
