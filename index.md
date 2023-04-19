@@ -3,7 +3,8 @@
 ---
 
 ### Hong Kong Horse Racing: Characteristics of a winner
-Exploratory analysis of the characteristic and racing factors that make a horse more likely to win.
+Exploratory analysis using Hong Kong Racing data. Determining the characteristics and race factors that make a horse more likely to win. 
+
 <img src="images/heatmap.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)  
