@@ -1,4 +1,4 @@
-## Recent analysis and data science projects
+## Recent Projects - Analysis and Data Science
 
 ---
 
