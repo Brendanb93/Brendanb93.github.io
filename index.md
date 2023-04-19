@@ -18,4 +18,4 @@ Exploratory analysis using a 1997-2005 Hong Kong Racing dataset. Determining the
 
 <img src="images/CNNlayer.jpg?raw=true"/>
 
-<img src="images/foots.jpg?raw=true"/>
+<img src="images/footprint.jpg?raw=true"/>
