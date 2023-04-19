@@ -13,9 +13,15 @@ Exploratory analysis using a 1997-2005 Hong Kong Racing dataset. Determining the
 
 ---
 
-### Gender detection from partial & complete footprints using Mobilenet
+### Detection and classification of partial & complete footprints using EfficientDet
+Trained Google's EfficientDet model to detect often incomplete indidual footprints and classify the individual's sex.
+Achieved a detection rate of 100% and correct classification rate over 70% from a small test sample.
+
+<img src="images/CNNlayer.JPG?raw=true"/>
+
+<img src="images/footprint.JPG?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Anaconda-white?logo=anaconda)](#) [![](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 
 
-<img src="images/CNNlayer.jpg?raw=true"/>
-
-<img src="images/footprint.jpg?raw=true"/>
+View code on Colab
