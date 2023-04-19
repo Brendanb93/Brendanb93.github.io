@@ -5,7 +5,6 @@
 ### Hong Kong Horse Racing: characteristics of a winner
 
 <img src="images/heatmap.jpg?raw=true"/>
-<img src="images/barrier.jpg?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#)
 
