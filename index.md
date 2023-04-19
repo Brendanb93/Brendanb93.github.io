@@ -2,7 +2,7 @@
 
 ---
 
-### Hong Kong Horse Racing: characteristics of a winner
+### Hong Kong Horse Racing: Characteristics of a winner
 
 <img src="images/heatmap.jpg?raw=true"/>
 
