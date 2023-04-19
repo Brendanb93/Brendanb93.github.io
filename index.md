@@ -11,6 +11,11 @@ Exploratory analysis using a 1997-2005 Hong Kong Racing dataset. Determining the
 
 [View code on Colab](https://colab.research.google.com/drive/1qY1qgiy4GcLNB5R29wM7hUa08ne0hVXB?usp=sharing)
 
-### Gender Identification from Partial or Complete Footprints
-
 ---
+
+### Gender detection from partial & complete footprints using Mobilenet
+
+
+<img src="images/CNNlayer.jpg?raw=true"/>
+
+<img src="images/foots.jpg?raw=true"/>
