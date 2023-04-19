@@ -1,9 +1,16 @@
 ## Recent projects
----
-[Gender Identification from Partial or Complete Footprints ](/sample_page)
-<img src="images/Foots.png?raw=true"/>
 
 ---
-[Hong Kong Horse Racing: characteristics of a winner](/pdf/Horse_racing)
+
+### Hong Kong Horse Racing: characteristics of a winner
+
 <img src="images/horse_racing.jpg?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![]
+
+[View code on Colab](https://colab.research.google.com/drive/)
+
+### Gender Identification from Partial or Complete Footprints
+
+
 ---
