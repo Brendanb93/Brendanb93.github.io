@@ -11,8 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/brendan-burns-a7527223a/">View My LinkedIn Profile</a> 
 theme: jekyll-theme-minimal
 
-google_analytics:
-<!-- Google tag (gtag.js) -->
+google_analytics: <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-7QG66FJZDT"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
