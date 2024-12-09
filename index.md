@@ -2,6 +2,11 @@
 
 ---
 
+### Betfair Automation NBA Datathon
+1st place in the Betfair NBA Modelling competition winning a prize of $2500 for lowest overall MAE
+
+---
+
 ### Hong Kong Horse Racing: Characteristics of a winner
 Exploratory analysis using a 1997-2005 Hong Kong Racing dataset. Determining the horse characteristics, jockey strategy and race factors that make a horse more likely to win. 
 
