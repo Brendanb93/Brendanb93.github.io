@@ -3,7 +3,7 @@
 ---
 
 ### Betfair Automation NBA Datathon
-1st place in the Betfair NBA Modelling competition winning a prize of $2500 for lowest overall MAE
+1st place in the Betfair NBA Modelling competition using a player based model winning a prize of $2500 for lowest overall MAE
 
 ---
 
